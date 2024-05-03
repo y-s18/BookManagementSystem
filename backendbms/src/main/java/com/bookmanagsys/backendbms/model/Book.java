@@ -32,6 +32,10 @@ public class Book {
 
     @NotBlank(message = "ISBN cannot be empty")
     private String isbn;
+    
+    public Long getId() {
+        return id;
+    }
 
     public String getName() {
         return name;
