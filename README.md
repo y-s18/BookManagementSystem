@@ -3,19 +3,19 @@
 A Full-Stack application that demonstrates the CRUD operations using Angular, Spring Boot, Docker and PostgreSQL.
 
 <p align="center">
-  <img src="https://github.com/y-s18/BookManagementSystem/blob/Images/book-list.png" width=50% height=50%>
+  <img src="https://github.com/y-s18/BookManagementSystem/blob/b2312615c2971e24386666c40435f1ebf2dd9880/Images/book-list.png" width=50% height=50%>
 </p>
 
 <p align="center">
-  <img src="https://github.com/y-s18/BookManagementSystem/blob/Images/add-book.png" width=50% height=50%>
+  <img src="https://github.com/y-s18/BookManagementSystem/blob/b2312615c2971e24386666c40435f1ebf2dd9880/Images/add-book.png" width=50% height=50%>
 </p>
 
 <p align="center">
-  <img src="https://github.com/y-s18/BookManagementSystem/blob/Images/book-details.png" width=50% height=50%>
+  <img src="https://github.com/y-s18/BookManagementSystem/blob/b2312615c2971e24386666c40435f1ebf2dd9880/Images/book-details.png" width=50% height=50%>
 </p>
 
 <p align="center">
-  <img src="https://github.com/y-s18/BookManagementSystem/blob/Images/update-book.png" width=50% height=50%>
+  <img src="https://github.com/y-s18/BookManagementSystem/blob/b2312615c2971e24386666c40435f1ebf2dd9880/Images/update-book.png" width=50% height=50%>
 </p>
 
 ## Tools and Technologies used
