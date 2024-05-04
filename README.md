@@ -81,7 +81,7 @@ Execute the `psql` command along with the username to make a connection with the
 psql -U root
 ```
 
-Create the database `customer` by running the following command. Run `\l` to list the databases
+Create the database `book` by running the following command. Run `\l` to list the databases
 
 ```bash
 CREATE DATABASE book;
